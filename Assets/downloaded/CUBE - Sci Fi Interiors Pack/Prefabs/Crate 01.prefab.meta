@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ddd1ee152c3ae0545a983f8f0ce92bd3
+timeCreated: 1543311052
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134181
+  packageName: CUBE - Sci Fi Interiors Pack
+  packageVersion: 1.1
+  assetPath: Assets/CUBE - Sci Fi Interiors Pack/Prefabs/Crate 01.prefab
+  uploadId: 373319

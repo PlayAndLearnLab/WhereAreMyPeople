@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d845999b4c043f94fb92f63a280fea42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166846
+  packageName: Sci Fi Pixel Art UI Kit
+  packageVersion: 1.0
+  assetPath: Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Scripts/CanvasController.cs
+  uploadId: 366550

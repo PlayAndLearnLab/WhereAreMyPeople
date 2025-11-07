@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d47994ceaf078f7479f11eb968bad543
+timeCreated: 1531454350
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134181
+  packageName: CUBE - Sci Fi Interiors Pack
+  packageVersion: 1.1
+  assetPath: Assets/CUBE - Sci Fi Interiors Pack/Animations/Medical Pod 01.controller
+  uploadId: 373319
