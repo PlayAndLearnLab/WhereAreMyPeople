@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro/Intro_demo1.unity
+    guid: ee892132e28554f409a729f1ce700f11
+  - enabled: 1
+    path: Assets/Scenes/Intro/Trash/Intro_demo2.unity
+    guid: 8dafc1027b0074bd69ef965ba3781b34
+  - enabled: 1
+    path: Assets/Scenes/Intro/Trash/Intro_demo3.unity
+    guid: 1c85506b574e2458e99259306397689c
+  - enabled: 0
+    path: Assets/Scenes/Trash/Scene1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Trash/Scene5.unity
+    guid: 07bf05838eddb4143ad29bcd989ac43b
+  - enabled: 1
+    path: Assets/Scenes/Trash/Scene6.unity
+    guid: 6c442c3aa03e942999a17d1cd132e896
+  - enabled: 1
+    path: Assets/Scenes/Win_step1.unity
+    guid: 06729fae9af234681857f012c8776a24
+  - enabled: 1
+    path: Assets/Scenes/Intro/Intro_demo4.unity
+    guid: bf0eedef970db4889ad028f38165075c
+  - enabled: 1
+    path: Assets/Scenes/Trash/Stage1.unity
+    guid: 99da6d11531cd4a9c950e9b2d49c87d5
+  - enabled: 1
+    path: Assets/Scenes/Intro/IntroVideo1.unity
+    guid: 6e9b3814fdd25404784921d4a5a82891
+  - enabled: 1
+    path: Assets/Scenes/Intro/Intro_demo5.unity
+    guid: f12d111bf3db54054a1149883a847aec
+  - enabled: 1
+    path: Assets/Scenes/Intro/Intro_demo6.unity
+    guid: 06bfa26c8a33741f6b1dde62da736d3e
+  - enabled: 1
+    path: Assets/Scenes/Intro/Intro_demo7.unity
+    guid: 8ac96d6ee1dfb49af84af8e30852b0b9
+  - enabled: 1
+    path: Assets/Scenes/Intro/IntroVideo2.unity
+    guid: b6cd44dbe510d4cbc8731861bedfa726
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: 0bfd9608244204988b848ecd16a25224
+  - enabled: 1
+    path: Assets/Scenes/Cow/OutroVideo1.unity
+    guid: 2da5aaff7bd744d038216ceffe81e9f8
+  - enabled: 1
+    path: Assets/Scenes/Cow/Cow1.unity
+    guid: fdcb05e5d8353428f8e85145e09ed8dc
+  - enabled: 1
+    path: Assets/Scenes/Cow/Teach1.unity
+    guid: b0431fcd309e6436182bfe944b29e099
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: f95638269fc9243838d237d05f7dc66e
+  - enabled: 1
+    path: Assets/Scenes/Cow/Cow2.unity
+    guid: 03ec1bcdc0b73496eaddabda4cc71bd6
+  - enabled: 1
+    path: Assets/Scenes/Cow/Cow3.unity
+    guid: d34e7579578f74b8a8c741aba518302b
+  - enabled: 1
+    path: Assets/Scenes/Cow/Cow4.unity
+    guid: 8ef395c259fd54bbc801060e04435dc2
+  - enabled: 1
+    path: Assets/Scenes/Cow/Cow5.unity
+    guid: 283bb7c1702914cde98ceefd78c8aacc
+  - enabled: 1
+    path: Assets/Scenes/Cow/Cow6.unity
+    guid: bbecfe0f4748c4cd4abbaaeccb699919
+  - enabled: 1
+    path: Assets/Scenes/Cow/Cow7.unity
+    guid: ad3465e7dc1fe49129203a0e4f316432
+  - enabled: 1
+    path: Assets/Scenes/Cow/Cow8.unity
+    guid: 9591e73f7aa364c5782ee479fa416820
+  - enabled: 1
+    path: Assets/Scenes/Chicken/OutroVideoChicken.unity
+    guid: 933a31b12fdbb4b20866023e917be689
+  - enabled: 1
+    path: Assets/Scenes/Chicken/Chicken1.unity
+    guid: f0fe116d980ee429faee34cf3e281f3c
+  - enabled: 1
+    path: Assets/Scenes/Chicken/Chicken2.unity
+    guid: bf9ec38f54182492cb16733c621c9259
+  - enabled: 1
+    path: Assets/Scenes/Chicken/Teach2.unity
+    guid: 5307eb593311d421ab4e6135ce4c7d54
+  - enabled: 1
+    path: Assets/Scenes/Stage4.unity
+    guid: 4ddc7b592816c4022a59450c32a0020e
+  - enabled: 1
+    path: Assets/Scenes/Chicken/Chicken3.unity
+    guid: 6efb0c9358bf347d1acded08f0e28658
+  - enabled: 1
+    path: Assets/Scenes/Chicken/Chicken4.unity
+    guid: f74e13a583ae24e42984e683e654ebad
+  - enabled: 1
+    path: Assets/Scenes/Chicken/Chicken5.unity
+    guid: ac7951425473440db8bedecc32faf4b2
+  - enabled: 1
+    path: Assets/Scenes/Chicken/Chicken6.unity
+    guid: c6fb2f78c9d454bb28c0d2231d2c1414
+  - enabled: 1
+    path: Assets/Scenes/Chicken/Chicken7.unity
+    guid: 8e8b3dd20822e4f568b3cbe1c24e2dea
+  - enabled: 1
+    path: Assets/Scenes/Chicken/Chicken8.unity
+    guid: 0ed74fb57610d4995b88eb5cef0aa6fc
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom1.unity
+    guid: c6cdea981a3d24d6db0da507e7de76a5
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom2.unity
+    guid: cee08bbca41174212bb325da44e9c1a0
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom3.unity
+    guid: eb020a2a0fcc94b00964059763ac195d
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom4.unity
+    guid: 08a7050f0b2b444e782edee75d02290a
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom5.unity
+    guid: 2c1e158d3b67f4e72b6b0f899dd80e5d
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom6.unity
+    guid: d4ac4ce8d5ad747c3a2c8b7284843e17
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom7.unity
+    guid: 7f585b90685e34a44bfc8b6373dec360
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom8.unity
+    guid: a5cffd2f55a2c45008d1d1f7e6d4d246
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom9.unity
+    guid: 73da5ff77da4f44389ec35b2e9e783d2
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom10.unity
+    guid: ee5f9cd670ba642f58028b17535de0ca
+  - enabled: 1
+    path: Assets/Scenes/Mom/Mom11.unity
+    guid: 9dbc85f174c6a4b8aaa1cd8595576d86
+  - enabled: 1
+    path: Assets/Scenes/Mom/OutroVideoMom.unity
+    guid: 72ac9141c42874396a3050dafb837829
+  - enabled: 1
+    path: Assets/Scenes/Mom/OutroVideo.unity
+    guid: 9e124912c6d7940c1ac8fbd9b1d8dadb
+  - enabled: 1
+    path: Assets/Scenes/Intro/Instructions.unity
+    guid: 8c36570a7fc3449768d0543937aba1a9
+  - enabled: 1
+    path: Assets/Scenes/Brother/IntroVideoBrother.unity
+    guid: 45c6438a34f4641c8ac6f49775a6ac0c
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother1.unity
+    guid: c9142a2cb4c6f4bc99bf40d2897beeca
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother2.unity
+    guid: bc9ad0a62d7de477585b7209b1fdca86
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother3.unity
+    guid: 66ff55f446c9e43088a2d4cad6d58db0
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother4.unity
+    guid: bebe9b5ff6e5b4416804f85758f2108c
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother5.unity
+    guid: 1a65f2ad1762440749950b74416bb404
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother6.unity
+    guid: 179a606460e2e42e785881cc9cda4202
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother7.unity
+    guid: 481a5b9e7c1bc49209b0af9527fcebce
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother8.unity
+    guid: 380fcb95c5c404f6fb5d575b213d5bd9
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother9.unity
+    guid: 0d9f6394adb7d42caa7e9ef62e452c20
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother10.unity
+    guid: b68b03f375f2f47d08a275495bd01a81
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother11.unity
+    guid: e32b7bf2b4fa84b54a8f16bd9b613b9b
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother12.unity
+    guid: cc811561b76ad48449d3f1fef2ca726d
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother13.unity
+    guid: 5efa389dab92a4c43bb1dfc19e798e02
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother14.unity
+    guid: 61a7b53062e194017a22a6eea0405fca
+  - enabled: 1
+    path: Assets/Scenes/Brother/Brother15.unity
+    guid: 3efb9bc115dde45b5a1b081e998fb068
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway1.unity
+    guid: 01b5058c6e1a64d6f9db63586c3eac03
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway2.unity
+    guid: 32292add4439948708566bd83ed08b5d
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
