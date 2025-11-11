@@ -113,7 +113,7 @@ public class Move : MonoBehaviour
                     SceneManager.LoadScene(66);
                 }
                 if (SceneManager.GetActiveScene().name == "Runaway2"){
-                    SceneManager.LoadScene(0);
+                    SceneManager.LoadScene(67);
                 }           
             }
 
