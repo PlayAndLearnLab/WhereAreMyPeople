@@ -215,6 +215,117 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Intro/To_be_continued.unity
     guid: 1b412343169a44066a710160e77fe051
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/Run1.unity
+    guid: 7499b540729a343cca017bde89988d84
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/Run2.unity
+    guid: 0982be5dc08a047d183fcddf379bf313
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/Run3.unity
+    guid: 4d5256c2bcc1f41a69ef436bebd43c32
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/Run4.unity
+    guid: 3f085a9e46153476fb5f1b2fe959fd76
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/Run5.unity
+    guid: 983370abadf83458ea0a23b3b0743b95
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/Run6.unity
+    guid: d4e359570ee1f4185b7be73cb381c5b0
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/Run7.unity
+    guid: ef27c213879ce4e3bb96d6d566929e98
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/Run8.unity
+    guid: fd48f3f7d750445c39b29b35e7f9da4f
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/Run9.unity
+    guid: 8c90f92591e7243b29b098707607a238
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/Run10.unity
+    guid: d470350fdb1224ee7a6a9aa9ff632f75
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/TeachGlasses.unity
+    guid: c5c432b2ac5ca4b2ab2f29ffb80c27b4
+  - enabled: 1
+    path: Assets/Scenes/Sheep/OutroVideoSheep.unity
+    guid: 34edb087ea7a34d89a77a5447c39dd61
+  - enabled: 1
+    path: Assets/Scenes/RunawayWithBro/Runaway_end/vEnd_GoAway.unity
+    guid: 42762105bbef14de2a57ead2254af496
+  - enabled: 1
+    path: Assets/Scenes/Sheep/vEnd_sheep.unity
+    guid: d1e0d271a1a974078a0cb2c12e34c031
+  - enabled: 1
+    path: Assets/Scenes/Aunt/OutroVideoAunt.unity
+    guid: f76fc893344a04955866b3bca9e5c2eb
+  - enabled: 1
+    path: Assets/Scenes/Sheep/Sheep1.unity
+    guid: 81292e362775349b8893a2a3af0fe3f2
+  - enabled: 1
+    path: Assets/Scenes/Sheep/Sheep2.unity
+    guid: b4475861a50d94f73a48aad0e7f29d3f
+  - enabled: 1
+    path: Assets/Scenes/Sheep/Sheep3.unity
+    guid: c3c355d08fbb64f5580d176729b2e4b7
+  - enabled: 1
+    path: Assets/Scenes/Sheep/Sheep4.unity
+    guid: 42c7bcd9808cb410c94510c09dac2c46
+  - enabled: 1
+    path: Assets/Scenes/Sheep/Sheep5.unity
+    guid: a82f0ded015a7433d844d479befe060a
+  - enabled: 1
+    path: Assets/Scenes/Sheep/Sheep6.unity
+    guid: 1ba5d79ffa48e46e6a30022e4129f26f
+  - enabled: 1
+    path: Assets/Scenes/Sheep/TeachSheep.unity
+    guid: cbb94fcbf12e641429efbb9064c9ebf5
+  - enabled: 1
+    path: Assets/Scenes/Aunt/aunt1.unity
+    guid: d68c3967cc67f471791379ae9638e25e
+  - enabled: 1
+    path: Assets/Scenes/Aunt/aunt2.unity
+    guid: 3ae34e1d8c7714770b93447e53f8be61
+  - enabled: 1
+    path: Assets/Scenes/Aunt/aunt3.unity
+    guid: 5c728a81ef9564a29981390f40af5372
+  - enabled: 1
+    path: Assets/Scenes/Aunt/aunt4.unity
+    guid: 617c8896ff17c4cae8aaa39312b18b1e
+  - enabled: 1
+    path: Assets/Scenes/Aunt/aunt5.unity
+    guid: 189cc1e5c82ca4fb48132dfe245ba617
+  - enabled: 1
+    path: Assets/Scenes/Aunt/aunt6.unity
+    guid: 0836407b1c9494f72902c2a6b928ba07
+  - enabled: 1
+    path: Assets/Scenes/Aunt/aunt7.unity
+    guid: 1e3c1d826114a40118caf42f4a5c27ff
+  - enabled: 1
+    path: Assets/Scenes/Aunt/aunt8.unity
+    guid: 1d3aec7e1d60c4a9382d930352fc3e53
+  - enabled: 1
+    path: Assets/Scenes/Aunt/TeachBlue.unity
+    guid: 8bf78794b2a574065b5b2a7f125b5d2e
+  - enabled: 1
+    path: Assets/Scenes/Pig/OutroVideoPig.unity
+    guid: 84acd79c81d47405aaf2f726a0234867
+  - enabled: 1
+    path: Assets/Scenes/Pig/pig1.unity
+    guid: 3c6d8dfd67dad482cba69daac817f913
+  - enabled: 1
+    path: Assets/Scenes/Pig/pig2.unity
+    guid: 0b8b8dd2cbbda4e59a369b261ac8baf0
+  - enabled: 1
+    path: Assets/Scenes/Pig/pig3.unity
+    guid: 915a175f507514e52830fbaebb95ee96
+  - enabled: 1
+    path: Assets/Scenes/Pig/pig4.unity
+    guid: c94d16705bce146e68404d5102d68cc6
+  - enabled: 1
+    path: Assets/Scenes/Pig/pig5.unity
+    guid: 6f4773f294aa3464c8ff663a2b868a48
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
